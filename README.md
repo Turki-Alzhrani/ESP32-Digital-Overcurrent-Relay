@@ -1,6 +1,8 @@
 # ESP32 Digital Overcurrent Relay
 
-A simple educational project that monitors a DC fan's voltage and current, displays them on an OLED, and switches the relay off when an overcurrent is detected.
+I built this personal project while studying Power System Protection to explore overcurrent relay operation through a simple hands-on setup.
+
+It uses an ESP32 to monitor a DC fan's voltage and current, display them on an OLED, and switch the relay off when an overcurrent is detected.
 
 ## Components
 
@@ -33,4 +35,3 @@ ESP32, SSD1306 OLED, 5V relay module, DC fan, pushbutton, a 10kΩ/2.15kΩ voltag
 
 [Arduino sketch](firmware/finalCode/finalCode.ino) — uses the Adafruit SSD1306 and Adafruit GFX libraries.
 
-> Educational prototype with unprotected ADC inputs; not suitable for mains or high-power loads.
