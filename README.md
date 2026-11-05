@@ -6,8 +6,6 @@ It uses an ESP32 to monitor a DC fan's voltage and current, display them on an O
 
 ## Project Demo
 
-A narrated walkthrough of the hardware, measured results, and the challenges solved during development. Press Play to watch with English narration.
-
 https://github.com/user-attachments/assets/18d540bf-720b-4d72-b130-cde18ccc3cda
 
 ## Components
