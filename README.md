@@ -4,6 +4,12 @@ I built this personal project while studying Power System Protection to explore 
 
 It uses an ESP32 to monitor a DC fan's voltage and current, display them on an OLED, and switch the relay off when an overcurrent is detected.
 
+## Project Demo
+
+A narrated walkthrough of the hardware, measured results, and the challenges solved during development. Press Play to watch with English narration.
+
+https://github.com/user-attachments/assets/18d540bf-720b-4d72-b130-cde18ccc3cda
+
 ## Components
 
 ESP32, SSD1306 OLED, 5V relay module, DC fan, pushbutton, a 10kΩ/2.15kΩ voltage divider, and two 10Ω resistors in parallel as a 5Ω shunt.
